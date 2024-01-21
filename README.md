@@ -3,10 +3,11 @@
   **Anime Request Bot**
 <div align="center">
  
-  [<img width="300" alt="image" src="https://telegra.ph/file/b3f9a28013c73e044b7bf.png">](https://telegram.me/LineStickerxBot) </div>
+  [<img width="300" alt="image" src="https://telegra.ph/file/b3f9a28013c73e044b7bf.png">](https://telegram.me/AnimeRequestxBot) </div>
 
 [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXAnime) [![Bot](https://img.shields.io/badge/Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/AnimeRequestxBot) [![Group](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXGroup) 
 </div></h3>
+
 
 
 **English:🇬🇧**
@@ -32,5 +33,18 @@ Video Quality (480p, 720p, 1080p):
 ```
 <div align="center">
  
-  [<img width="200" alt="image" src="https://telegra.ph/file/b9041e48d59f1f272d351.jpg">](https://telegram.me/LineStickerxBot) </div>
+  [<img width="200" alt="image" src="https://telegra.ph/file/b9041e48d59f1f272d351.jpg">](https://telegram.me/AnimeRequestxBot) </div>
+  
+---
+ **Video Quality**
+<div align="center">
+ 
+  [<img width="300" alt="image" src="https://telegra.ph/file/22586e2307beff90223dd.jpg">](https://telegram.me/AnimeRequestxBot) </div>
+
+
+**English:🇬🇧**
+> Available video quality for downloading and streaming includes 480p, 720p, and 1080p. The file size (in MB/GB) depends on the video quality.
+
+**Japanese:🇯🇵**
+> ダウンロードおよびストリーミング用に利用可能なビデオクオリティには480p、720p、1080pが含まれています。ファイルサイズ（MB/GB単位）はビデオクオリティに依存します。
   
