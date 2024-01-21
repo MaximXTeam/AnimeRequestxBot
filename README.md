@@ -11,7 +11,7 @@
 
 
 **English:🇬🇧**
-> How to send an anime name in [@AnimeRequestxBot](https://telegram.me/AnimeRequestxBot).
+> *How to send an anime name in [@AnimeRequestxBot](https://telegram.me/AnimeRequestxBot).*
 
 **Use this format:**
 ```
@@ -22,7 +22,7 @@ Video Quality (480p, 720p, 1080p):
 ```
 
 **Japanese:🇯🇵**
-> [@AnimeRequestxBot](https://telegram.me/AnimeRequestxBot) にアニメの名前を送信する方法：
+> *[@AnimeRequestxBot](https://telegram.me/AnimeRequestxBot) にアニメの名前を送信する方法：*
 
 **このフォーマットを使用してください：**
 ```
@@ -36,15 +36,24 @@ Video Quality (480p, 720p, 1080p):
   [<img width="200" alt="image" src="https://telegra.ph/file/b9041e48d59f1f272d351.jpg">](https://telegram.me/AnimeRequestxBot) </div>
   
 ---
- **Video Quality**
+**▷ 🎥 Video Quality**
 <div align="center">
  
   [<img width="300" alt="image" src="https://telegra.ph/file/22586e2307beff90223dd.jpg">](https://telegram.me/AnimeRequestxBot) </div>
 
 
 **English:🇬🇧**
-> Available video quality for downloading and streaming includes 480p, 720p, and 1080p. The file size (in MB/GB) depends on the video quality.
+> *Available video quality for downloading and streaming includes 480p, 720p, and 1080p. The file size (in MB/GB) depends on the video quality.*
 
 **Japanese:🇯🇵**
-> ダウンロードおよびストリーミング用に利用可能なビデオクオリティには480p、720p、1080pが含まれています。ファイルサイズ（MB/GB単位）はビデオクオリティに依存します。
+> *ダウンロードおよびストリーミング用に利用可能なビデオクオリティには480p、720p、1080pが含まれています。ファイルサイズ（MB/GB単位）はビデオクオリティに依存します。*
+
   
+---
+**▷ 🎙️ Language Support**
+
+**English:🇬🇧**
+> *Available downloading and streaming language support includes Japanese and English with subtitles/dubbing.*
+
+**Japanese:🇯🇵**
+> *ダウンロードおよびストリーミングの言語サポートは、日本語と英語の字幕/吹き替えが含まれています。*
