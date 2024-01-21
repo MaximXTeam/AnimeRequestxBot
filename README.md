@@ -70,13 +70,9 @@ Video Quality (480p, 720p, 1080p):
 **Japanese:🇯🇵**
 > *ダウンロードおよびストリーミングの言語サポートは、日本語と英語の字幕/吹き替えが含まれています。*
 
+---
 
-
-
-
-
-
-
+[@AnimeRequestxBot](https://telegram.me/AnimeRequestxBot) does not store any files on our server, we only linked to the media which is hosted on 3rd party services.
 
 
 ---
