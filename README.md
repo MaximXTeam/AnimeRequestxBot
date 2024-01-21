@@ -75,4 +75,4 @@ Video Quality (480p, 720p, 1080p):
 
 リポジトリの開発者: **[シンエイ](https://github.com/Shineii86)**
 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3.0-blue.svg)](https://github.com/MaximXTeam/LineStickerxBot/blob/main/LICENSE)
+[![GPLv3 license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MaximXTeam/AnimeRequestxBot/blob/main/LICENSE)
