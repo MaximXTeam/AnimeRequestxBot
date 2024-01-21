@@ -34,6 +34,18 @@ Video Quality (480p, 720p, 1080p):
 <div align="center">
  
   [<img width="200" alt="image" src="https://telegra.ph/file/b9041e48d59f1f272d351.jpg">](https://telegram.me/AnimeRequestxBot) </div>
+
+**English:🇬🇧**
+
+***Q.:** What will happen after providing Anime Details?*
+
+> ***Ans.:** All the Anime you've requested will be available on our Telegram Channel [@MaximXAnime](https://telegram.me/MaximXAnime). Thank you.*
+
+**Japanese:🇯🇵**
+
+***質問:** アニメの詳細を提供した後、何が起こりますか？*
+
+> ***回答:** ご要望いただいたアニメは、すべて当社のTelegramチャンネル[@MaximXAnime](https://telegram.me/MaximXAnime)でご利用いただけます。ありがとうございます。*
   
 ---
 **▷ 🎥 Video Quality**
