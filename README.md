@@ -57,3 +57,22 @@ Video Quality (480p, 720p, 1080p):
 
 **Japanese:🇯🇵**
 > *ダウンロードおよびストリーミングの言語サポートは、日本語と英語の字幕/吹き替えが含まれています。*
+
+
+
+
+
+
+
+
+
+
+---
+
+<div align="center"> <sub>
+  
+  Repository Developed by **[Shinei](https://github.com/Shineii86)**
+
+リポジトリの開発者: **[シンエイ](https://github.com/Shineii86)**
+
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3.0-blue.svg)](https://github.com/MaximXTeam/LineStickerxBot/blob/main/LICENSE)
